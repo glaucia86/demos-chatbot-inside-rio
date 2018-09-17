@@ -38,7 +38,6 @@ namespace EchoBot
                 }));
 
                 IStorage dataStore = new MemoryStorage();
-                options.Middleware.Add(new ConversationState<EchoState>(dataStore));
             });
         }
 
