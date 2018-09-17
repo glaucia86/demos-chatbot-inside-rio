@@ -4,14 +4,13 @@
   <img src="https://i.imgur.com/pA6SRQ6.gif"/>  
 </p>
 
-Repositório responsável pelas demos realizadas durante o evento Global Azure Bootcamp, sobre: **Uso da Linguagem Natural com Azure & Microsoft Bot Framework** [AQUI](https://bit.ly/2qR9GQZ)
+Repositório responsável pelas demos realizadas durante o evento .NET Inside Rio, sobre: **Uso da Linguagem Natural com Azure & Microsoft Bot Framework** [AQUI](https://bit.ly/2NHd4eL)
 
 ## Recursos Utilizados no Desenvolvimento da Aplicação: :rocket:
 
 Para realizar as demos dessa série, se faz necessário instalar os seguintes programas:
 
-* Visual Studio Code - [DOWNLOAD AQUI](https://code.visualstudio.com/)
-* Node.JS - [DOWNLOAD AQUI](https://nodejs.org/en/)
+* Visual Studio 2017 - [DOWNLOAD AQUI](https://visualstudio.microsoft.com/)
 * Microsoft Bot Framework Emulator - [DOWNLOAD AQUI](https://github.com/Microsoft/BotFramework-Emulator/releases
 )
 * Instalar a versão Python 2.x - [DOWNLOAD AQUI](https://www.python.org/downloads/)
