@@ -15,7 +15,7 @@ Para realizar as demos dessa série, se faz necessário instalar os seguintes pr
 )
 * Atualizar todas as extensões no Visual Studio - [COMO FAZER ATUALIZAÇÕES](https://docs.microsoft.com/en-us/visualstudio/extensibility/how-to-update-a-visual-studio-extension?view=vs-2017);
 
-* Modelo de BOT para C# - [DOWNLOAD AQUI](https://marketplace.visualstudio.com/items?itemName=BotBuilder.BotBuilderV3)
+* Modelo de BOT para C# - [DOWNLOAD AQUI](https://marketplace.visualstudio.com/items?itemName=BotBuilder.botbuilderv4)
 
 * Cadastro no site LUIS: https://www.luis.ai/
 * Cadastro no site Azure: https://azure.microsoft.com/pt-br/services/bot-service/
@@ -38,4 +38,6 @@ Caso queiram entrar em contato comigo, sintam-se a vontade em me adicionar em al
 <p align="center">
   <img src="https://i.imgur.com/dLSzYDT.gif"/>  
 </p>
+
+
 
